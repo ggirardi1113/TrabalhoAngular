@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import {MeuTopTres} from './meu-top-tres/meu-top-tres.model';
 
 @Component({
   selector: 'trab-root',

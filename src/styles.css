@@ -1,1 +1,38 @@
-/* You can add global styles to this file, and also import other style files */
+.header{
+    position: absolute;
+    width: 80%;
+    height:20%;
+    border-style: solid;
+    font-family: arial;
+    background-color: #000080;
+}
+.menu{
+    position: absolute;
+    top:22%;
+    border-style: solid;
+    height:70%;
+    width: 15%;
+    font-family: arial;
+    background-color:#ADD8E6;
+}
+div.body{
+    position: absolute;
+    top:22%;
+    left: 16%;
+    border-style: solid;
+    height:70%;
+    width: 64.6%;
+    font-family: arial;
+    background-color: #87CEEB;
+
+}
+.footer{
+    position: absolute;
+    bottom: 0%;
+    border-style: solid;
+    width: 80%;
+    height: 5%;
+    background-color: #00BFFF;
+    font-family: arial;
+    font-size: 30px;
+}
